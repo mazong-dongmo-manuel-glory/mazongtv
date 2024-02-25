@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.2.2",
     "gasp": "^0.0.2",
     "gsap": "^3.12.5",
     "save-dev": "^0.0.1-security",
